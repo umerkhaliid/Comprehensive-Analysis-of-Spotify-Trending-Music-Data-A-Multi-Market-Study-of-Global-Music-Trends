@@ -1,0 +1,80 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Data files (too large for GitHub - can be regenerated)
+*.csv
+!analysis_output/basic_statistics.csv
+!analysis_output/processed_data.csv
+
+# Large data files
+spotify_trending*.csv
+analysis_output/insights.json
+
+# Logs
+*.log
+*.txt
+!requirements.txt
+!README*.txt
+
+# LaTeX
+*.aux
+*.log
+*.out
+*.bbl
+*.blg
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.pdf
+!DBA_project_2022517.pdf
+IEEE_Report.tex
+compile_latex.sh
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Spotify cache
+.cache
+.cache-*
+
+# Analysis outputs (keep structure but not large data)
+analysis_output/insights.json
+
+# Keep only essential outputs
+!analysis_output/*.png
+!analysis_output/insights.txt
+!analysis_output/basic_statistics.csv
+
