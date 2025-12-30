@@ -222,7 +222,7 @@ The project includes two comprehensive reports:
 
 > **Note**: The complete project code, data collection scripts, and analysis pipeline are available in the GitHub repository. Due to dataset size, the raw data files are not included in the repository but can be regenerated using the collection scripts.
 
-**Repository Link**: https://github.com/shadow-112/DS464-semproject-startraders
+**Repository Link**: https://github.com/umerkhaliid/Comprehensive-Analysis-of-Spotify-Trending-Music-Data-A-Multi-Market-Study-of-Global-Music-Trends
 
 ## 📊 Dataset Information
 
@@ -242,7 +242,7 @@ This project is for educational and research purposes.
 
 ## 👤 Author
 
-Saad Shafqat - 2022517
+Umer Khalid
 
 ---
 
